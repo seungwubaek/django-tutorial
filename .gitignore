@@ -1,0 +1,7 @@
+.idea
+db.sqlite3
+*.pyc
+__pycache__
+**/migrations
+static/bootstrap.min.*
+static/jquery-*
